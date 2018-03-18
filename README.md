@@ -18,8 +18,8 @@
     <li>
         As a User, I can sign up or sign in using my email & password 
         <ul>
-            <li> I added latitude and longitude to the user instance, because it's needed to sort the shops by distance
-            <li> I used Laravel commande line <pre>php artisan make:auth</pre>
+            <li> I added latitude and longitude to the user Model, because it's needed to sort the shops by distance.
+            <li> I used Laravel command line <pre>php artisan make:auth</pre>
         </ul>
     </li>
 </ul>
